@@ -1,6 +1,4 @@
-package Advanced DSA.DP.DigitDP;
-
-public import java.util.*;
+import java.util.*;
 import java.io.*;
 
 public class Main {
@@ -63,6 +61,4 @@ public class Main {
             System.out.println(result2 - result1);
         }
     }
-} {
-    
 }
